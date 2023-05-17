@@ -1,6 +1,6 @@
 # CypressCucumberExample
 
-This is a project example to demonstrate the interaction between Cypress, Cucumber and Angular. Please see this blog article for more detailed information.
+This is a project example to demonstrate the interaction between Cypress, Cucumber and Angular. Please see [this blog article](https://www.cimt-ag.de/webanwendungen-mit-cypress-und-cucumber-testen/) for more detailed information.
 
 ## Development server
 
