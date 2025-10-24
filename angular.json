@@ -64,10 +64,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "cypress-cucumber-example:build:production"
+              "buildTarget": "cypress-cucumber-example:build:production"
             },
             "development": {
-              "browserTarget": "cypress-cucumber-example:build:development"
+              "buildTarget": "cypress-cucumber-example:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -75,7 +75,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "cypress-cucumber-example:build"
+            "buildTarget": "cypress-cucumber-example:build"
           }
         }
       }
